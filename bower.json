@@ -1,0 +1,20 @@
+{
+  "name": "meantodo",
+  "description": "Todos app",
+  "main": "server.js",
+  "authors": [
+    "Don"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

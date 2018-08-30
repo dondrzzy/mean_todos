@@ -1,0 +1,19 @@
+{
+  "name": "meantodo",
+  "version": "1.0.0",
+  "description": "Todo backend server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don",
+  "license": "ISC",
+  "dependencies": {
+    "angular2-jwt": "^0.2.3",
+    "body-parser": "*",
+    "cors": "^2.8.3",
+    "ejs": "*",
+    "express": "*",
+    "mongojs": "*"
+  }
+}
